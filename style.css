@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+.srch {
+    background-color: #eeeeee;
+    width: 90%;
+    height: 65px;
+    margin: auto;
+}
+
+.container {
+    width: 90%;
+    height: 90px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+
+}   
+
+.row-1 {
+    background-color:#7EE5DA;
+    font-size: 16px;
+    width: 250%;
+    margin-top: 3px;
+    margin-right: 2px;
+}
+
+.row-2 {
+    background-color: #70CCC2;
+    font-size: 13px;
+    width: 150%;
+    margin-top: 2px;
+    margin-right: 2px;
+}
+
+.row-3 {
+    background-color: #62B3AA;
+    font-size: 13px;
+    width: 300%;
+    margin-top: 2px;
+    
+
+}
